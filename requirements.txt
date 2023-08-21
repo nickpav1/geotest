@@ -1,0 +1,7 @@
+click
+flask
+pydantic
+requests
+haversine
+Flask-SQLAlchemy
+Flask-APScheduler
